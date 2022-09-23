@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "gen": "ergogen layout.yaml"
+    },
+    "dependencies": {
+        "ergogen": "github:soundmonster/ergogen#samoklava"
+    }
+}
